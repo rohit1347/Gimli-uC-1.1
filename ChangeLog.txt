@@ -1,0 +1,11 @@
+------|||||Change Log for Gimli|||||------
+
+**Ver 1.0**
+-Initial Release
+
+**Ver 1.1**
+[4/11/15]
+-Corrected placement of status LED
+-Use of smaller diode
+-Separate I/O pin for reset provided
+-Provided LED for Tx on pin 32
